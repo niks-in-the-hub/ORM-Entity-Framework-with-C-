@@ -1,0 +1,14 @@
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\bin\Debug\SalesApp.exe.config
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\bin\Debug\SalesApp.exe
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\bin\Debug\SalesApp.pdb
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\bin\Debug\EntityFramework.dll
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\bin\Debug\EntityFramework.xml
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\obj\Debug\SalesApp.csprojAssemblyReference.cache
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\obj\Debug\SalesApp.Properties.Resources.resources
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\obj\Debug\SalesApp.csproj.GenerateResource.cache
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\obj\Debug\SalesApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\obj\Debug\SalesApp.csproj.CopyComplete
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\obj\Debug\SalesApp.exe
+C:\Users\Nikkitha\source\orm_udemy\SalesApp\obj\Debug\SalesApp.pdb
